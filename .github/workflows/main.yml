@@ -13,7 +13,7 @@ jobs:
       - name: Generate snake animation
         uses: Platane/snk@v3
         with:
-          github_user_name: Tanish-dev69
+          github_user_name: thetanishnagpal
           outputs: |
             dist/github-contribution-grid-snake.svg?palette=github-dark
       - name: Push snake to output branch
